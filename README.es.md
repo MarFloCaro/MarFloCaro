@@ -9,7 +9,7 @@ Mi primer contacto con la programación fue con **C** en CS50 de Harvard. Despu�
 Ahora estoy terminando el Bootcamp de Ciencia de Datos de Henry y me aventuro a conseguir mi primer trabajo en tecnología. Puedes obtener más información sobre mi perfil profesional en LinkedIn o contactarme por correo electrónico.
 
 <div align="center">
-  <a href='https://www.linkedin.com/in/maria-florencia-c-86916b21/'>
+  <a href='https://www.linkedin.com/in/flo-caro/'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="Linkedin"/>
   </a>
   <a href='mailto:mfcaro@gmail.com'>
