@@ -9,7 +9,7 @@ My first contact with programming was using **C** in Harvard's CS50. After that 
 Now I'm finishing Henry's Data Science Bootcamp and venturing myself to get my first job in tech. You can learn more about my professional profile at LinkedIn, or contact me via email.
 
 <div align="center">
-  <a href='https://www.linkedin.com/in/maria-florencia-c-86916b21/?locale=en_US'>
+  <a href='https://www.linkedin.com/in/flo-caro/?locale=en_US'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="Linkedin"/>
   </a>
   <a href='mailto:mfcaro@gmail.com'>
