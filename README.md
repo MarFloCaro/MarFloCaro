@@ -18,7 +18,7 @@ Now I'm finishing Henry's Data Science Bootcamp and venturing myself to get my f
 </div>
 
 ### More about me:
-- Proud Community Manager and Moderator at [GPRO.net](https://gpro.net) for the last 10 years. 🏎️🏁🕹️
+- Proud Community Manager and Moderator at [GPRO.net](https://gpro.net) for the last 11 years. 🏎️🏁🕹️
 - That particular journey made me look at classic ASP. My eyes, my eyes!! 😵 
 - One of my hobbies is graphic design, I just love things that look nice and distributed and I'm hands on when it comes to it!
 - More hands on ways I use to make things look pretty: Bookbinding. 📚
