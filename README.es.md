@@ -18,7 +18,7 @@ Ahora estoy terminando el Bootcamp de Ciencia de Datos de Henry y me aventuro a 
 </div>
 
 ### Más sobre mí:
-- Orgullosa Community Manager y Moderadora de [GPRO.net](https://gpro.net) durante los últimos 10 años. 🏎️🏁🕹️
+- Orgullosa Community Manager y Moderadora de [GPRO.net](https://gpro.net) durante los últimos 11 años. 🏎️🏁🕹️
 - Esa particular experiencia me hizo explorar ASP clásico. ¡Mis ojos, mis ojos! 😵
 - Uno de mis pasatiempos es el diseño gráfico. Me encanta que las cosas luzcan bien organizadas y estéticas, y tengo experiencia práctica en ello.
 - Otra forma en la que canalizo esa pasión es la encuadernación de libros, cuadernos, carpetas. 📚
